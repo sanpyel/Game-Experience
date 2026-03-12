@@ -1,5 +1,5 @@
 # Game-Experience
-The Gaming experience of a Senior Gamer
+一名老玩家的游戏经历（与岗位投递中的游戏经历相对应）。
 
 注：早期玩网游（CF、逆战）的账号是使用的父母的账号，相关材料已难以呈现。
 
