@@ -1,7 +1,7 @@
 # Game-Experience
-一名老玩家的游戏经历（与岗位投递中的游戏经历相对应）。
+一名老玩家的游戏经历。
 
-注：早期玩网游（CF、逆战）的账号是使用的父母的账号，相关材料已难以呈现。
+注：早期玩网游（CF、逆战）积累几千小时，但账号是使用的父母的账号，相关材料已难以呈现。
 
 ## LOL游玩经历
 <img width="1141" height="640" alt="image" src="https://github.com/user-attachments/assets/3fd35989-b953-4fc9-9f67-ff8e37cd32a9" />
